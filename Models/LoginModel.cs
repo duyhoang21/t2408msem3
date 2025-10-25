@@ -4,5 +4,6 @@
     {
         string username;
         string password;
+        string domain;
     }
 }
